@@ -2,11 +2,12 @@
 /*
 Plugin Name: MailChimp Sync Groups
 Description: Sync class groups with wordpress metadata
-Version: 1.0.0
+Version: 1.0.1
 Author: johwin
 Text Domain: mailchimp-groups
 Domain Path: /languages
-GitHub Plugin URI: Fysikteknologsektionen/mailchimp-groups
+GitHub Plugin URI: fysikteknologsektionen/ftek-mailchimp-groups
+Primary Branch: main
 */
 
 // Prevent direct file access
